@@ -1,0 +1,7 @@
+allow_images=true
+image_size=15
+
+prompt=🧐在找什么呢？
+allow_markup=true
+
+insensitive=true

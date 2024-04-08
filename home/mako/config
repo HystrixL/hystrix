@@ -1,0 +1,26 @@
+sort=-time
+layer=overlay
+background-color=#0f4c81aa
+text-color=#B5C7D3
+width=450
+height=150
+border-size=2
+border-color=#B5C7D3
+border-radius=12
+# icons=12
+max-icon-size=64
+default-timeout=10000
+ignore-timeout=0
+font="system-ui" 14
+margin=0
+padding=12,20
+
+[urgency=low]
+border-color=#cccccc
+
+[urgency=normal]
+border-color=#B5C7D3
+
+[urgency=critical]
+border-color=#bf616a
+default-timeout=0
